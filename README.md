@@ -1,4 +1,5 @@
 ## MyMiddleMan
+**by: Dev Narula, Kartike Chaudhari, WIlliam Liu, Allan Yin**
 Submission for [ETHGlobal Waterloo 2023 Hackathon](https://ethglobal.com/showcase/mymiddleman-e0ps2). This project is a web3 middleware application aimed to provide security to user transaction occurred on the blockchain. Using Tenderly to simulate and test a virtual transaction our product aims to guarantee 100% safe User transaction.
 
 ### Description
